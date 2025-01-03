@@ -8,7 +8,7 @@ public:
             {
                 if(nums[i]==nums[j])
                 {
-                    sum=sum+1;
+                    sum = sum + 1;
                 }
             }
         }
