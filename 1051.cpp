@@ -7,7 +7,8 @@ public:
         for(int i=0;i<heights.size();i++)
         {
             news[i]=heights[i];
-        }
+        } 
+        
         sort(heights.begin(),heights.end());
         for(int i=0;i<heights.size();i++)
         {
