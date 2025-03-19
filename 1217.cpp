@@ -25,6 +25,7 @@ public:
             else
             {
                 cost=even;
+                
             }
         }
         return cost;
