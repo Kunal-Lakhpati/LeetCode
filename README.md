@@ -8,6 +8,7 @@ Daily Solving Leetcode untill I land an Internship
 | ------- |
 | [0009-palindrome-number](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -20,4 +21,8 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
