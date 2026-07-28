@@ -7,11 +7,13 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0009-palindrome-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0912-sort-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
@@ -43,6 +45,7 @@ Daily Solving Leetcode untill I land an Internship
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
