@@ -14,6 +14,7 @@ Daily Solving Leetcode untill I land an Internship
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0912-sort-an-array) |
@@ -78,6 +79,7 @@ Daily Solving Leetcode untill I land an Internship
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0011-container-with-most-water) |
 | [0876-middle-of-the-linked-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -95,4 +97,8 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
