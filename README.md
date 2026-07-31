@@ -7,6 +7,7 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -92,6 +93,7 @@ Daily Solving Leetcode untill I land an Internship
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0412-fizz-buzz) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -101,4 +103,8 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
