@@ -1,34 +1,65 @@
 class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
-        int j = 0;
-        int k = 0;
-        vector<int> yo(nums.size());
-        for (int i = 0; i < nums.size(); i++) 
+        vector<int> yo;
+        for (int x : nums)
         {
-            if (nums[i] < pivot)
+            if (x < pivot)
             {
-                yo[j] = nums[i];
-                j++;
+                yo.push_back(x);
             }
         }
-        for (int i = 0; i < nums.size(); i++) 
+
+        for (int x : nums)
         {
-            if (nums[i] == pivot) 
+            if (x == pivot)
             {
-                yo[j] = nums[i];
-                j++;
+                yo.push_back(x);
             }
         }
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] > pivot) {
-                yo[j] = nums[i];
-                j++;
+
+        for (int x : nums)
+        {
+            if (x > pivot)
+            {
+                yo.push_back(x);
             }
         }
         return yo;
     }
 };
+
+// class Solution {
+// public:
+//     vector<int> pivotArray(vector<int>& nums, int pivot) {
+//         int j = 0;
+//         int k = 0;
+//         vector<int> yo(nums.size());
+//         for (int i = 0; i < nums.size(); i++) 
+//         {
+//             if (nums[i] < pivot)
+//             {
+//                 yo[j] = nums[i];
+//                 j++;
+//             }
+//         }
+//         for (int i = 0; i < nums.size(); i++) 
+//         {
+//             if (nums[i] == pivot) 
+//             {
+//                 yo[j] = nums[i];
+//                 j++;
+//             }
+//         }
+//         for (int i = 0; i < nums.size(); i++) {
+//             if (nums[i] > pivot) {
+//                 yo[j] = nums[i];
+//                 j++;
+//             }
+//         }
+//         return yo;
+//     }
+// };
 
 // class Solution {
 // public:
