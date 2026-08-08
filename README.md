@@ -13,6 +13,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0877-stone-game](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1518-water-bottles) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -121,6 +122,7 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0412-fizz-buzz) |
+| [1518-water-bottles](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1518-water-bottles) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
