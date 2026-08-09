@@ -22,6 +22,7 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0486-predict-the-winner](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0486-predict-the-winner) |
@@ -73,6 +74,7 @@ Daily Solving Leetcode untill I land an Internship
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3731-find-missing-elements) |
@@ -107,6 +109,7 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
