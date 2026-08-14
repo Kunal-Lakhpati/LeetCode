@@ -49,6 +49,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0560-subarray-sum-equals-k](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -149,6 +150,7 @@ Daily Solving Leetcode untill I land an Internship
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0412-fizz-buzz) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Game Theory
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Daily Solving Leetcode untill I land an Internship
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Nim Game
 |  |
 | ------- |
