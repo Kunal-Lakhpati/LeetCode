@@ -26,6 +26,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0011-container-with-most-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -45,6 +46,7 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -206,4 +208,8 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
