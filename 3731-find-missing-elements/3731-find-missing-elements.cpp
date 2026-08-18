@@ -1,21 +1,20 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        vector<int> bankai;
-        sort(nums.begin(), nums.end());
-        int j = 0;
-        for (int i = nums[0]; i <= nums[nums.size() - 1]; i++) 
+        map<int,int> arr;
+        vector<int> vec;
+        for(int i=0;i<nums.size();i++)
         {
-            if (j < nums.size() && nums[j] == i) 
+            arr[nums[i]]++;
+        }
+        for(int i=0;i<arr.size()-1;i++)
+        {
+            if(arr[i]==1 && arr[i+1]!=1)
             {
-                j++;
-            } 
-            else 
-            {
-                bankai.push_back(i);
+                vec.push_back(i+1);
+                arr[i+1]++;
             }
         }
-
-        return bankai;
+        return vec;
     }
 };
