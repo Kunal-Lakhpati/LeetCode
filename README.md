@@ -174,6 +174,7 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0412-fizz-buzz) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -238,4 +239,12 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0881-boats-to-save-people) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
