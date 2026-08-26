@@ -37,6 +37,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0912-sort-an-array) |
@@ -249,8 +250,13 @@ Daily Solving Leetcode untill I land an Internship
 | [0020-valid-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
