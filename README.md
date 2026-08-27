@@ -27,6 +27,7 @@ Daily Solving Leetcode untill I land an Internship
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0137-single-number-ii) |
@@ -154,6 +155,7 @@ Daily Solving Leetcode untill I land an Internship
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0704-binary-search) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
