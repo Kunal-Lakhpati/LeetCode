@@ -37,6 +37,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0560-subarray-sum-equals-k](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0877-stone-game) |
@@ -153,6 +154,7 @@ Daily Solving Leetcode untill I land an Internship
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0704-binary-search) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
