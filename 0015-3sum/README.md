@@ -34,6 +34,7 @@ Notice that the order of the output and the order of the triplets does not matte
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
+<p>yea</p>
 
 <ul>
 	<li><code>3 &lt;= nums.length &lt;= 3000</code></li>
