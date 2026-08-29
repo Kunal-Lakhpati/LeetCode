@@ -47,6 +47,7 @@ Daily Solving Leetcode untill I land an Internship
 | [1406-stone-game-iii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1652-defuse-the-bomb](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -221,6 +222,7 @@ Daily Solving Leetcode untill I land an Internship
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1652-defuse-the-bomb](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Nim Game
 |  |
