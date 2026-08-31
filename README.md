@@ -6,6 +6,7 @@ Daily Solving Leetcode untill I land an Internship
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0412-fizz-buzz) |
@@ -87,6 +88,7 @@ Daily Solving Leetcode untill I land an Internship
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -95,6 +97,7 @@ Daily Solving Leetcode untill I land an Internship
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0486-predict-the-winner) |
