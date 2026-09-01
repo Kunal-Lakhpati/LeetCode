@@ -197,6 +197,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0344-reverse-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0412-fizz-buzz) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3110-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Game Theory
 |  |
