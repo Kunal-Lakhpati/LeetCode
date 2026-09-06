@@ -30,6 +30,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0011-container-with-most-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0137-single-number-ii) |
@@ -147,6 +148,7 @@ Daily Solving Leetcode untill I land an Internship
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0486-predict-the-winner) |
@@ -158,6 +160,7 @@ Daily Solving Leetcode untill I land an Internship
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -272,6 +275,7 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0739-daily-temperatures) |
@@ -282,5 +286,6 @@ Daily Solving Leetcode untill I land an Internship
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
