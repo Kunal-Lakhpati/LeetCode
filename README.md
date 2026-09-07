@@ -55,6 +55,7 @@ Daily Solving Leetcode untill I land an Internship
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [1920-build-array-from-permutation](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -187,6 +188,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0682-baseball-game](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0735-asteroid-collision) |
 | [1518-water-bottles](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1518-water-bottles) |
+| [1920-build-array-from-permutation](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
