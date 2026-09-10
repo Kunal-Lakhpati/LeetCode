@@ -297,4 +297,8 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0048-rotate-image) |
+## Database
+|  |
+| ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
