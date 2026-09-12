@@ -48,6 +48,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0704-binary-search](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -182,6 +183,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0035-search-insert-position](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
