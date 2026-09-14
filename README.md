@@ -58,6 +58,7 @@ Daily Solving Leetcode untill I land an Internship
 | [1406-stone-game-iii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1652-defuse-the-bomb](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1920-build-array-from-permutation](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -187,6 +188,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0704-binary-search](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1539-kth-missing-positive-number](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
