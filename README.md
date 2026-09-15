@@ -62,6 +62,7 @@ Daily Solving Leetcode untill I land an Internship
 | [1652-defuse-the-bomb](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1920-build-array-from-permutation](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2574-left-and-right-sum-differences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -248,6 +249,7 @@ Daily Solving Leetcode untill I land an Internship
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2574-left-and-right-sum-differences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
