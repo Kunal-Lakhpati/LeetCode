@@ -213,6 +213,7 @@ Daily Solving Leetcode untill I land an Internship
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Daily Solving Leetcode untill I land an Internship
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3110-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Game Theory
 |  |
 | ------- |
