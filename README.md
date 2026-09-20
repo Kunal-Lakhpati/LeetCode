@@ -39,6 +39,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0042-trapping-rain-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0137-single-number-ii) |
@@ -193,6 +194,7 @@ Daily Solving Leetcode untill I land an Internship
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
