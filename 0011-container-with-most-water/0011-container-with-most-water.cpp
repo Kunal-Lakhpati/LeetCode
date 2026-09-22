@@ -25,7 +25,6 @@ public:
         // int r = h.size() - 1;
         // int water = 0;
         // int max = 0;
-
         // for (int i=0;i<h.size() && i<r; i++) 
         // {
         //     if (h[i] > h[r]) 
