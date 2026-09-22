@@ -23,7 +23,7 @@
 </pre>
 
 <p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+<p><strong>Constraintss:</strong></p>
 
 <ul>
 	<li><code>n == height.length</code></li>
