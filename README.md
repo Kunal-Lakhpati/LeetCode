@@ -95,6 +95,7 @@ Daily Solving Leetcode untill I land an Internship
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
@@ -242,6 +243,7 @@ Daily Solving Leetcode untill I land an Internship
 | [3110-score-of-a-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3110-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Game Theory
 |  |
 | ------- |
