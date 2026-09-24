@@ -23,6 +23,7 @@ Daily Solving Leetcode untill I land an Internship
 | [2769-find-the-maximum-achievable-number](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -74,6 +75,7 @@ Daily Solving Leetcode untill I land an Internship
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3903-smallest-stable-index-i) |
