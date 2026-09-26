@@ -10,6 +10,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0009-palindrome-number](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -46,6 +47,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0137-single-number-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -190,6 +192,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0141-linked-list-cycle](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0881-boats-to-save-people) |
