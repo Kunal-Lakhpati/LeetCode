@@ -83,6 +83,7 @@ Daily Solving Leetcode untill I land an Internship
 | [3875-construct-uniform-parity-array-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Daily Solving Leetcode untill I land an Internship
 | [3731-find-missing-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3945-digit-frequency-score) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Counting
 |  |
 | ------- |
@@ -109,6 +111,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0347-top-k-frequent-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Number Theory
 |  |
 | ------- |
