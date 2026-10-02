@@ -180,6 +180,7 @@ Daily Solving Leetcode untill I land an Internship
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -248,6 +249,7 @@ Daily Solving Leetcode untill I land an Internship
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0412-fizz-buzz) |
@@ -334,6 +336,7 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0022-generate-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -352,4 +355,8 @@ Daily Solving Leetcode untill I land an Internship
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
