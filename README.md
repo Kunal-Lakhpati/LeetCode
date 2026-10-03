@@ -359,4 +359,8 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0022-generate-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
