@@ -83,6 +83,7 @@ Daily Solving Leetcode untill I land an Internship
 | [3875-construct-uniform-parity-array-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ Daily Solving Leetcode untill I land an Internship
 | [3731-find-missing-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3945-digit-frequency-score) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Counting
 |  |
@@ -111,6 +113,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0347-top-k-frequent-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Number Theory
 |  |
@@ -158,11 +161,13 @@ Daily Solving Leetcode untill I land an Internship
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0912-sort-an-array) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Merge Sort
 |  |
 | ------- |
@@ -238,10 +243,12 @@ Daily Solving Leetcode untill I land an Internship
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Ordered Set
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Greedy
 |  |
 | ------- |
