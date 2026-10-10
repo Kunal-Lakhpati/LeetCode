@@ -64,6 +64,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0877-stone-game](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0912-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1406-stone-game-iii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -161,6 +162,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0628-maximum-product-of-three-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0912-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3731-find-missing-elements) |
@@ -239,6 +241,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0412-fizz-buzz](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0735-asteroid-collision) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1518-water-bottles](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -388,4 +391,8 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0141-linked-list-cycle) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
