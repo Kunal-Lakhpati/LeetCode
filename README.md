@@ -75,6 +75,7 @@ Daily Solving Leetcode untill I land an Internship
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -99,6 +100,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0347-top-k-frequent-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -263,6 +265,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0011-container-with-most-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -330,6 +333,7 @@ Daily Solving Leetcode untill I land an Internship
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0137-single-number-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Quickselect
 |  |
