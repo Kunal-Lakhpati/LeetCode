@@ -9,6 +9,7 @@ public:
             int k=(l+hi)/2;
             int hrs=0;
             for(int yo : piles)
+            
             {
                 hrs+=(yo+k-1)/k;
             }
