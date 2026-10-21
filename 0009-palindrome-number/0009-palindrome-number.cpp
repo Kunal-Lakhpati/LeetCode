@@ -11,6 +11,7 @@ public:
 
             halfRev = halfRev * 10 + (x % 10);
             x /= 10;
+            
         }
 
         return halfRev == x || halfRev / 10 == x;
