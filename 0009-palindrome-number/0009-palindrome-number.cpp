@@ -14,6 +14,7 @@ public:
             
         }
 
+        
         return halfRev == x || halfRev / 10 == x;
     }
 };
