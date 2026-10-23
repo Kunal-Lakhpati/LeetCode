@@ -76,6 +76,7 @@ Daily Solving Leetcode untill I land an Internship
 | [1920-build-array-from-permutation](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2418-sort-the-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -108,6 +109,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0560-subarray-sum-equals-k](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0575-distribute-candies) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2418-sort-the-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2418-sort-the-people) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -176,6 +178,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0912-sort-an-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3731-find-missing-elements) |
@@ -294,6 +297,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0856-score-of-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [2418-sort-the-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3110-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
