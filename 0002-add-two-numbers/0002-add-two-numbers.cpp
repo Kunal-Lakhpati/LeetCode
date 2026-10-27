@@ -13,6 +13,7 @@ public:
             if (l2) {
                 sum += l2->val;
                 l2 = l2->next;        
+
             }
 
             
