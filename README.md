@@ -70,6 +70,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0881-boats-to-save-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -181,6 +182,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0881-boats-to-save-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -236,6 +238,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0344-reverse-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
@@ -248,6 +251,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0704-binary-search](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
