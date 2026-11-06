@@ -94,6 +94,7 @@ Daily Solving Leetcode untill I land an Internship
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -124,6 +125,7 @@ Daily Solving Leetcode untill I land an Internship
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -190,6 +192,7 @@ Daily Solving Leetcode untill I land an Internship
 | [2418-sort-the-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3731-find-missing-elements) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
