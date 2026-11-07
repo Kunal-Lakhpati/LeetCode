@@ -35,6 +35,7 @@ Daily Solving Leetcode untill I land an Internship
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3945-digit-frequency-score](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
@@ -98,6 +99,7 @@ Daily Solving Leetcode untill I land an Internship
 | [3731-find-missing-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
