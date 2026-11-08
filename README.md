@@ -23,6 +23,7 @@ Daily Solving Leetcode untill I land an Internship
 | [1510-stone-game-iv](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1518-water-bottles) |
+| [2413-smallest-even-multiple](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -145,6 +146,7 @@ Daily Solving Leetcode untill I land an Internship
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
