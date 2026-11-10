@@ -13,8 +13,8 @@ public:
             if (l2) {
                 sum += l2->val;
                 l2 = l2->next;        
-
             }
+
             carry = sum / 10;               
             cur->next = new ListNode(sum % 10); 
             cur = cur->next;       
