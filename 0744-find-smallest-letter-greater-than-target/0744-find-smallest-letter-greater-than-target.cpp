@@ -23,12 +23,10 @@ public:
                 l=mid+1;
             }
         }
-
         if(val>=arr[l])
         {
             return letters[0];
         }
-
         return arr[l]+'a';
     }
 };
