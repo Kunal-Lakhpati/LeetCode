@@ -23,6 +23,7 @@ Daily Solving Leetcode untill I land an Internship
 | [1510-stone-game-iv](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1518-water-bottles) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -80,6 +81,7 @@ Daily Solving Leetcode untill I land an Internship
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1512-number-of-good-pairs](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1652-defuse-the-bomb](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1920-build-array-from-permutation](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -236,6 +238,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0877-stone-game](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
@@ -348,6 +351,7 @@ Daily Solving Leetcode untill I land an Internship
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3903-smallest-stable-index-i) |
