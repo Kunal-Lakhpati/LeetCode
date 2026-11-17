@@ -1,6 +1,7 @@
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s) {
+    int lengthOfLongestSubstring(string s) 
+    {
         int l=0;
         int maxo=0;
         int j=0;
