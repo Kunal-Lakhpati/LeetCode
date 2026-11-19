@@ -88,6 +88,7 @@ Daily Solving Leetcode untill I land an Internship
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2418-sort-the-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -199,6 +200,7 @@ Daily Solving Leetcode untill I land an Internship
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -305,6 +307,7 @@ Daily Solving Leetcode untill I land an Internship
 | [0011-container-with-most-water](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
