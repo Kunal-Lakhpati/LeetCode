@@ -30,6 +30,7 @@ Daily Solving Leetcode untill I land an Internship
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -98,6 +99,7 @@ Daily Solving Leetcode untill I land an Internship
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -156,6 +158,7 @@ Daily Solving Leetcode untill I land an Internship
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
@@ -371,6 +374,7 @@ Daily Solving Leetcode untill I land an Internship
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
@@ -382,6 +386,7 @@ Daily Solving Leetcode untill I land an Internship
 | [1652-defuse-the-bomb](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Nim Game
 |  |
 | ------- |
