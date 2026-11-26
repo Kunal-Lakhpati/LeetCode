@@ -30,6 +30,7 @@ Daily Solving Leetcode untill I land an Internship
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -301,6 +302,7 @@ Daily Solving Leetcode untill I land an Internship
 | [2181-merge-nodes-in-between-zeros](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Kunal-Lakhpati/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
