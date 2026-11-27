@@ -9,7 +9,6 @@ public:
             {
                 continue;
             }
-
             int j=i+1;
             int k=nums.size()-1;
             while(j<k)
